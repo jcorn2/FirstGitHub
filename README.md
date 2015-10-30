@@ -1,2 +1,3 @@
 # FirstGitHub
-My firstGitHub repository
+This a repositiry in showing the basics of GitHub.
+
